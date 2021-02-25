@@ -15,3 +15,42 @@ Swift UI is used with web viewer.
 The API used is Algolia News API that provides headlines as well as the url for the complete article that is used in web view
 
 to open the complete article.
+
+# File Structure
+
+    ├── H4X0R\ News
+    │   ├── AppDelegate.swift
+    │   ├── Assets.xcassets
+    │   │   ├── AppIcon.appiconset
+    │   │   │   └── Contents.json
+    │   │   └── Contents.json
+    │   ├── Base.lproj
+    │   │   └── LaunchScreen.storyboard
+    │   ├── H4X0R\ News.entitlements
+    │   ├── Info.plist
+    │   ├── Models
+    │   │   ├── NetworkManager.swift
+    │   │   └── PostData.swift
+    │   ├── Preview\ Content
+    │   │   └── Preview\ Assets.xcassets
+    │   │       └── Contents.json
+    │   ├── SceneDelegate.swift
+    │   └── Views
+    │       ├── ContentView.swift
+    │       ├── DetailView.swift
+    │       └── WebView.swift
+    └── H4X0R\ News.xcodeproj
+        ├── project.pbxproj
+        ├── project.xcworkspace
+        │   ├── contents.xcworkspacedata
+        │   ├── xcshareddata
+        │   │   └── IDEWorkspaceChecks.plist
+        │   └── xcuserdata
+        │       └── pranjalbhardwaj.xcuserdatad
+        │           └── UserInterfaceState.xcuserstate
+        └── xcuserdata
+            └── pranjalbhardwaj.xcuserdatad
+                ├── xcdebugger
+                │   └── Breakpoints_v2.xcbkptlist
+                └── xcschemes
+                    └── xcschememanagement.plist
