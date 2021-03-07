@@ -1,3 +1,5 @@
+<img src = "https://img.shields.io/badge/Author-Pranjal_Bhardwaj-green">
+
 # H4X0R-News
 Swift UI based news application that displays best tech news based on upvotes and displays full articles in a web view.
 
