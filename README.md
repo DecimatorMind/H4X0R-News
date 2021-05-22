@@ -1,3 +1,5 @@
+[![](https://img.shields.io/github/followers/DecimatorMind?label=Follow&style=social)](https://www.github.com/DecimatorMind)
+
 <img src = "https://img.shields.io/badge/Author-Pranjal_Bhardwaj-green"> <img src = "https://img.shields.io/badge/Language-Swift-orange"> <img src = "https://img.shields.io/badge/Language-Xcode-blue">
 
 # H4X0R-News
