@@ -20,6 +20,8 @@ The API used is Algolia News API that provides headlines as well as the url for 
 
 to open the complete article.
 
+https://hn.algolia.com/api
+
 # File Structure
 
     ├── H4X0R\ News
